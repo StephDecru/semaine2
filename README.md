@@ -5,4 +5,4 @@
 * Inserer le liens vers les badges codecademy dans le readme
 * Créer une version de son CV en html
 
-# exercice réaliser  [Mes badges] (https://www.codecademy.com/fr/users/javaSolver88307/achievements "mes badges codecademy")
+# exercice réaliser [Mes badges] (https://www.codecademy.com/fr/users/javaSolver88307/achievements "badges codecademy")
