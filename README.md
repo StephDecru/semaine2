@@ -1,11 +1,7 @@
 # semaine2
-<!DOCTYPE html>
-<html>
-  <head>
-    <Title>Devoir semaine2</Title>
-  </head>
-  <body>
-    <p>
-      <a href="https://www.codecademy.com/fr/users/javaSolver88307/achievements" mes badges>
-    </p>
-</html>
+
+# exercices demander
+* Passer les exercices HTML sur Codecademy
+* Inserer le liens vers les badges codecademy dans le readme
+  ![Mes badges](https://www.codecademy.com/fr/users/javaSolver88307/achievements "mes badges codecademy")
+* Créer une version de son CV en html
