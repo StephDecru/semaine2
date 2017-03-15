@@ -2,7 +2,6 @@
 
 # exercices demander
 * Passer les exercices HTML sur Codecademy
-* Inserer le liens vers les badges codecademy dans le readme
+* Inserer le liens vers les badges codecademy dans le readme  
+[Mes badges] (https://www.codecademy.com/fr/users/javaSolver88307/achievements)
 * Créer une version de son CV en html
-
-# exercice réaliser [Mes badges] (https://www.codecademy.com/fr/users/javaSolver88307/achievements "badges codecademy")
